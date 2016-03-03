@@ -13,7 +13,7 @@ This are some batch files and registry hacks that will help you fix Windows 10 p
 <h3>KillSkypeHost.bat</h3><br><p>
 Windows 10 has an inbuilt app named <em>Messaging and Skype</em> which consumes a lot of memory and increases your disk usage. To fix this, you can use the <em>SkypeHost.bat</em> file.<br>You need it use it only once.<br>
 It searches the required files and deletes them.<br><br>
-<b>Edit:</b>It may show no such file found. Don't worry, it means that the issue does not exist in your system.<br></p>
+<b>Edit:</b> It may show no such file found. Don't worry, it means that the issue does not exist in your system.<br></p>
 
 <br><br><h2>Maintained by:</h2><p>Piyush Arora<br>
 <a href="http://www.facebook.com/MastermindPiyush1"> Facebook </a>
